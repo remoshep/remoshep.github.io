@@ -1,0 +1,26 @@
+h1{
+	font-size: 72px;
+	font-family: 'Indie Flower', cursive;
+	}
+h2{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 36px;
+
+}
+h3{
+	font-size: 72px;
+	font-family: 'Indie Flower', cursive;
+}
+h4{ font-size: 72px;
+	font-family: 'Indie Flower', cursive;
+
+}
+p{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 36px;
+
+}
+body{
+	background-color:#ffffe6;
+	padding-left: 450px;
+	}
